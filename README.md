@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👨🏻‍💻 Miguel Tobias Vaz Furtado
+**`Desenvolvedor em formação`**
 
-<!--
-**Miguel-Tobias-Vaz/Miguel-Tobias-Vaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas no IFPA, com foco em lógica de programação e desenvolvimento de software.
 
-Here are some ideas to get you started:
+Atualmente estudo tecnologias como Python, Java e desenvolvimento web, aplicando esse conhecimento em projetos próprios voltados à prática e resolução de problemas reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco evoluir continuamente e construir uma base sólida como desenvolvedor.
+
+## 🚀 Projetos em destaque
+- [Opto Review]( optoreview.com.br) (em desenvolvimento)
+
+Plataforma de comparação e recomendação de periféricos com foco em custo-benefício.
+
+
+## 📚 Atualmente estudando
+- Python
+- Java
+- HTML, CSS e JavaScript
+
+## 📊 Em evolução
+
+- Lógica de programação  
+- Estrutura de dados  
+- Desenvolvimento web  
+- Manipulação de dados  
+
+## 📫 Contato
+- LinkedIn: [Miguel Vaz](https://www.linkedin.com/in/miguel-tobias-vaz-furtado-07b6552ab/)
+- Email: (tobiasmiguel007@gmial.com)
