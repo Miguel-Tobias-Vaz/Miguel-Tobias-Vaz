@@ -26,5 +26,5 @@ Plataforma de comparação e recomendação de periféricos com foco em custo-be
 - Manipulação de dados  
 
 ## 📫 Contato
-- LinkedIn: [Miguel Vaz](https://www.linkedin.com/in/miguel-tobias-vaz-furtado-07b6552ab/)
+- LinkedIn: [Miguel Vaz](https://www.linkedin.com/in/miguel-tobias-vaz/)
 - Email: (tobiasmiguel007@gmial.com)
